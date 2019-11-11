@@ -1,2 +1,2 @@
-console.log("index");
-console.log("lew lew");
+console.log("index index master");
+console.log("lew lew lew");
