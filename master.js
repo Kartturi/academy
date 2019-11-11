@@ -1,2 +1,2 @@
 console.log("index");
-console.log("lew");
+console.log("lew lew");

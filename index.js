@@ -1,3 +1,3 @@
-console.log("master");
+console.log("master index");
 console.log("index");
 console.log("lew");
